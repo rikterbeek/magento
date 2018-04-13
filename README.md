@@ -16,3 +16,8 @@ test 4 milestone is now compelted
 close this issue with close commit comment
 
 test vanuit github
+
+```
+var client = new Client("WebserverUsername", "WebserverPassword", Environment.Test, "YourApplicationName"); 
+
+```
