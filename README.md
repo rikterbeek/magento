@@ -29,3 +29,8 @@ var directoryLookupRequest = CreateDirectoryLookupRequest();
 var paymentMethods = hostedPaymentPages.GetPaymentMethods(directoryLookupRequest);
 
 ```
+
+```
+var test = "test";
+
+```
