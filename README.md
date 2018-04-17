@@ -21,3 +21,11 @@ test vanuit github
 var client = new Client("WebserverUsername", "WebserverPassword", Environment.Test, "YourApplicationName"); 
 
 ```
+
+
+```
+
+var directoryLookupRequest = CreateDirectoryLookupRequest();
+var paymentMethods = hostedPaymentPages.GetPaymentMethods(directoryLookupRequest);
+
+```
